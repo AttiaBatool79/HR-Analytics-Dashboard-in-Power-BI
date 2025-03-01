@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard in Power BI  
+#  HR Analytics Dashboard in Power BI  
 
 ##  Overview  
 This project is an **HR Analytics Dashboard** built using **Power BI**, developed as part of my course at **Leverify in June 2024**. The dashboard provides insights into various HR metrics, helping organizations analyze workforce trends, employee performance, and retention rates.  
@@ -21,7 +21,7 @@ The analysis is based on the **HR_Analytics.csv** dataset, which includes employ
 - Years of Experience  
 - Work-life Balance  
 
-## 🛠 Tools & Technologies Used  
+##  Tools & Technologies Used  
 - **Power BI** – Data visualization & dashboard creation  
 - **DAX (Data Analysis Expressions)** – Used for calculated measures  
 - **Excel/CSV** – Data preprocessing  
