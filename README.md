@@ -47,7 +47,7 @@ The dashboard consists of multiple **interactive visualizations**, including:
 4️⃣ **Explore insights using interactive visualizations**  
 
 ##  Contact  
- Email: attia.computerengineer079@gmail.com  
+ Email: attia.computerengineer079@gmail.com
  LinkedIn: [www.linkedin.com/in/attia-batool-079-engineer](https://www.linkedin.com/in/attia-batool-079-engineer)  
  GitHub: [https://github.com/AttiaBatool79](https://github.com/AttiaBatool79)  
 
