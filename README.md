@@ -35,10 +35,10 @@ The dashboard consists of multiple **interactive visualizations**, including:
 - **Line Charts** – Salary trends over time  
 
 ##  Learning Outcomes  
-- Mastering **Power BI report creation**  
-- Understanding **HR data analysis & visualization**  
-- Implementing **DAX formulas** for insights  
-- Creating **interactive & dynamic reports**  
+- Mastering **Power BI report creation**.  
+- Understanding **HR data analysis & visualization**.  
+- Implementing **DAX formulas** for insights.  
+- Creating **interactive & dynamic reports**.  
 
 ##  How to Use  
 1️⃣ **Download the repository**  
