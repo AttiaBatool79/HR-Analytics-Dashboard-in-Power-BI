@@ -11,7 +11,7 @@ This project is an **HR Analytics Dashboard** built using **Power BI**, develope
 **HR KPIs & Insights** – Key HR indicators for decision-making  
 
 ##  Dataset  
-The analysis is based on the **HR_Analytics.csv** dataset, which includes employee information such as:  
+The analysis is based on the **HR_Analytics.csv** dataset, which includes employee information such as:
 - Employee ID  
 - Department  
 - Job Role  
