@@ -4,11 +4,11 @@
 This project is an **HR Analytics Dashboard** built using **Power BI**, developed as part of my course at **Leverify in June 2024**. The dashboard provides insights into various HR metrics, helping organizations analyze workforce trends, employee performance, and retention rates.  
 
 ##  Key Features  
-✅ **Employee Overview** – Summary of total employees, departments, and demographics  
-✅ **Attrition Analysis** – Insights into employee turnover and reasons for attrition  
-✅ **Performance Metrics** – Evaluation of employee productivity and engagement  
-✅ **Salary & Compensation Trends** – Analysis of salary distribution across different levels  
-✅ **HR KPIs & Insights** – Key HR indicators for decision-making  
+**Employee Overview** – Summary of total employees, departments, and demographics  
+**Attrition Analysis** – Insights into employee turnover and reasons for attrition  
+**Performance Metrics** – Evaluation of employee productivity and engagement  
+**Salary & Compensation Trends** – Analysis of salary distribution across different levels  
+**HR KPIs & Insights** – Key HR indicators for decision-making  
 
 ##  Dataset  
 The analysis is based on the **HR_Analytics.csv** dataset, which includes employee information such as:  
